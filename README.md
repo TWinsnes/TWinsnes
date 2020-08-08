@@ -10,6 +10,10 @@ _Builder | DevOps Enthusiast | Automator | Teacher | Avid learner_
 
 I like building things, and finding better way of building things. For me, automation is the best way to not have to do the same thing over and over, so I try to automate myself out a job anywhere I go. 
 
+### 📕 Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **TWinsnes/TWinsnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
