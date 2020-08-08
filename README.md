@@ -2,8 +2,7 @@
 
 _Builder | DevOps Enthusiast | Automator | Teacher | Avid learner_
 
----
-<img width="40%" align="right" alt="Developer" src="https://raw.githubusercontent.com/TWinsnes/TWinsnes/master/images/developer.svg" />
+<img height="150" align="right" alt="Developer" src="https://raw.githubusercontent.com/TWinsnes/TWinsnes/master/images/developer.svg" />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/winsnes/) [![LinkedIn](https://img.shields.io/badge/Website-darkgreen?style=flat&logo=Hugo&logoColor=white&)](https://www.winsnes.io)
 
