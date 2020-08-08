@@ -12,6 +12,11 @@ I like building things, and finding better way of building things. For me, autom
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reduce personal data leakage using Pi-hole, the easy way](http://www.winsnes.io/posts/pi-hole/)
+- [Demystifying Hugo Archetypes](http://www.winsnes.io/posts/demystifying-archetypes/)
+- [Netlify is easier and cheaper than google cloud](http://www.winsnes.io/posts/netlify/)
+- [Root Domain Support](http://www.winsnes.io/posts/root-domain/)
+- [Set up a blog on Google Cloud Store using Hugo](http://www.winsnes.io/posts/set-up-static-blog-on-gcp/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
