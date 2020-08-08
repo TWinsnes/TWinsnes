@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hello! 👋<br /> I'm Tom Winsnes
+
+_Builder | DevOps Enthusiast | Automator | Teacher | Avid learner_
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/winsnes/) [![LinkedIn](https://img.shields.io/badge/Website-darkgreen?style=flat&logo=Hugo&logoColor=white&)](https://www.winsnes.io)
+
+<img width="25%" align="right" alt="Developer" src="images/developer.svg" />
+
+I like building things, and finding better way of building things. For me, automation is the best way to not have to do the same thing over and over, so I try to automate myself out a job anywhere I go. 
 
 <!--
 **TWinsnes/TWinsnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
