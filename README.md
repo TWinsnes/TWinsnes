@@ -8,7 +8,7 @@ _Builder | DevOps Enthusiast | Automator | Teacher | Avid learner_
 
 
 
-I like building things, and finding better way of building things. For me, automation is the best way to not have to do the same thing over and over, so I try to automate myself out a job anywhere I go. 
+I enjoy building things and finding better ways of building things. For me, automation is the best way to not have to do the same thing over and over, so I try to automate myself out a job anywhere I go. 
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
