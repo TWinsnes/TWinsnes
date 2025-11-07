@@ -12,11 +12,11 @@ I enjoy building things and finding better ways of building things. For me, auto
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reduce personal data leakage using Pi-hole, the easy way](http://www.winsnes.io/posts/pi-hole/)
-- [Demystifying Hugo Archetypes](http://www.winsnes.io/posts/demystifying-archetypes/)
-- [Netlify is easier and cheaper than google cloud](http://www.winsnes.io/posts/netlify/)
-- [Root Domain Support](http://www.winsnes.io/posts/root-domain/)
-- [Set up a blog on Google Cloud Store using Hugo](http://www.winsnes.io/posts/set-up-static-blog-on-gcp/)
+- [Handling request scoped dependencies in Golang without abusing the context](https://winsnes.io/posts/rsd/)
+- [Great tools: Direnv](https://winsnes.io/posts/tools-direnv/)
+- [Typesafe SQL queries in Golang](https://winsnes.io/posts/typesafe-sql-in-golang/)
+- [Automated Certificates for PostgreSQL with Let&#39;s Encrypt](https://winsnes.io/posts/postgres-certs/)
+- [Primer on CORS and SOP](https://winsnes.io/posts/cors/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
